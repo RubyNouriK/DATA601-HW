@@ -10,3 +10,12 @@ With using Regex, Pandas, Numpy and Matplotlib, I will perform the following lis
 **4. Detecting outliers**
 
 **5. Conducting exploratory visualizations**
+
+---------------------------------------------
+
+**Methodology**
+
+**Challenges**
+
+**Insights**
+
